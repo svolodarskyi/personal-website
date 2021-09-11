@@ -140,7 +140,10 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/svolodarskyi"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sergii-volodarskyi"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -230,7 +233,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-
+  - jemoji
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
